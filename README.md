@@ -7,6 +7,7 @@ Another box of trash, similar to trash-box, which is code that just fails for no
 Chapter 1:
 
 my ocd told me to do this part
+
 |Question|Description|
 |---|---|
 |272 TeX Quotes|do as asked|
@@ -25,8 +26,7 @@ my ocd told me to do this part
 |12403 Save Setu|whatever they say|
 |12577 Hajj-e-Akbar|whatever they say|
 
-other easy ioi questions
-|Question|Description|
-|---|---|
+other easy ioi problems
+
 |2010/1/1 Cluedo|Subtract possibilities each time grader rules something out|
 |2010/2/1 Memory|Find what all the cards map to to do it optimally|
