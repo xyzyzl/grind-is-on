@@ -28,5 +28,7 @@ my ocd told me to do this part
 
 other easy ioi problems
 
+|Question|Description|
+|---|---|
 |2010/1/1 Cluedo|Subtract possibilities each time grader rules something out|
 |2010/2/1 Memory|Find what all the cards map to to do it optimally|
