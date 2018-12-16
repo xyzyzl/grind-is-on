@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/hayfeast.dir/main.cpp.o  -o hayfeast 

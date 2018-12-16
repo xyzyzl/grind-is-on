@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/closing.dir/main.cpp.o  -o closing 
