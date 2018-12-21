@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/perimeter.dir/main.cpp.o  -o perimeter 

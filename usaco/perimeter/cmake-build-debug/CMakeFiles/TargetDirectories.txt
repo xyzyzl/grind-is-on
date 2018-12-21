@@ -1,0 +1,3 @@
+/home/xyzyzl/Documents/cp3/usaco/perimeter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xyzyzl/Documents/cp3/usaco/perimeter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xyzyzl/Documents/cp3/usaco/perimeter/cmake-build-debug/CMakeFiles/perimeter.dir

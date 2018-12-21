@@ -1,3 +1,0 @@
-/home/xyzyzl/Documents/cp3/USACO/feb17/visitfj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/xyzyzl/Documents/cp3/USACO/feb17/visitfj/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/xyzyzl/Documents/cp3/USACO/feb17/visitfj/cmake-build-debug/CMakeFiles/visitfj.dir

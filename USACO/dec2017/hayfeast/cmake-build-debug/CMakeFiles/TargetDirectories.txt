@@ -1,3 +1,0 @@
-/home/xyzyzl/Documents/cp3/USACO/dec2017/hayfeast/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/xyzyzl/Documents/cp3/USACO/dec2017/hayfeast/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/xyzyzl/Documents/cp3/USACO/dec2017/hayfeast/cmake-build-debug/CMakeFiles/hayfeast.dir
