@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  AdjLstMST.cpp
+c:\users\alber\source\repos\algorithm\adjlstmst\adjlstmst\adjlstmst.cpp(37): error C2131: expression did not evaluate to a constant
+  c:\users\alber\source\repos\algorithm\adjlstmst\adjlstmst\adjlstmst.cpp(37): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\users\alber\source\repos\algorithm\adjlstmst\adjlstmst\adjlstmst.cpp(37): note: see usage of 'N'
+c:\users\alber\source\repos\algorithm\adjlstmst\adjlstmst\adjlstmst.cpp(40): error C2131: expression did not evaluate to a constant
+  c:\users\alber\source\repos\algorithm\adjlstmst\adjlstmst\adjlstmst.cpp(40): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  c:\users\alber\source\repos\algorithm\adjlstmst\adjlstmst\adjlstmst.cpp(40): note: see usage of 'N'
+c:\users\alber\source\repos\algorithm\adjlstmst\adjlstmst\adjlstmst.cpp(51): error C3863: array type 'bool [N]' is not assignable
+c:\users\alber\source\repos\algorithm\adjlstmst\adjlstmst\adjlstmst.cpp(57): error C3863: array type 'int [N]' is not assignable
